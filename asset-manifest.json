@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-firebase-chat/static/css/main.07a26402.css",
-    "main.js": "/react-firebase-chat/static/js/main.3953ab9d.js",
+    "main.js": "/react-firebase-chat/static/js/main.781ab25a.js",
     "static/media/logo.png": "/react-firebase-chat/static/media/logo.c5f8c471ca209737aac9.png",
     "index.html": "/react-firebase-chat/index.html",
     "main.07a26402.css.map": "/react-firebase-chat/static/css/main.07a26402.css.map",
-    "main.3953ab9d.js.map": "/react-firebase-chat/static/js/main.3953ab9d.js.map"
+    "main.781ab25a.js.map": "/react-firebase-chat/static/js/main.781ab25a.js.map"
   },
   "entrypoints": [
     "static/css/main.07a26402.css",
-    "static/js/main.3953ab9d.js"
+    "static/js/main.781ab25a.js"
   ]
 }
