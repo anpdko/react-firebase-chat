@@ -48,7 +48,7 @@ const Chat = () => {
    return (
       <div className='chat-container'>
          <div className='chat-message'>
-            {messages && messages.map(message=>
+            {!!messages && messages.map(message=>
                user.displayName === message.displayName
                ?<div key={message.uid+message.createAt} className='message-user message-user-my'>
                   <p className='message-user-name'>{message.displayName} <img src={message.photoURL} alt="autor"/></p>
